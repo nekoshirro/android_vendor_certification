@@ -1,14 +1,14 @@
 {
     "MANUFACTURER": "Xiaomi",
     "MODEL": "23049RAD8C",
-    "FINGERPRINT": "Redmi/marble/marble:15/AQ3A.250226.002/OS3.0.1.0.VMRCNXM:user/release-keys",
+    "FINGERPRINT": "Redmi/marble/marble:15/AQ3A.250226.002/OS3.0.4.0.VMRCNXM:user/release-keys",
     "BRAND": "Redmi",
     "PRODUCT": "marble",
     "DEVICE": "marble",
     "VERSION.RELEASE": "15",
     "ID": "AQ3A.250226.002",
     "VERSION.SECURITY_PATCH": "2026-01-05",
-    "VERSION.INCREMENTAL": "OS3.0.1.0.VMRCNXM",
+    "VERSION.INCREMENTAL": "OS3.0.4.0.VMRCNXM",
     "TYPE": "user",
     "TAGS": "release-keys",
     "VERSION.DEVICE_INITIAL_SDK_INT": "32"
