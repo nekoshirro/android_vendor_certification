@@ -1,0 +1,15 @@
+{
+    "MANUFACTURER": "Xiaomi",
+    "MODEL": "23049PCD8G",
+    "FINGERPRINT": "POCO/marble/marble:15/AQ3A.250226.002/OS3.0.2.0.VMRIDXM:user/release-keys",
+    "BRAND": "POCO",
+    "PRODUCT": "marble",
+    "DEVICE": "marble",
+    "VERSION.RELEASE": "15",
+    "ID": "AQ3A.250226.002",
+    "VERSION.SECURITY_PATCH": "2026-01-05",
+    "VERSION.INCREMENTAL": "OS3.0.2.0.VMRIDXM",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "VERSION.DEVICE_INITIAL_SDK_INT": "32"
+}
